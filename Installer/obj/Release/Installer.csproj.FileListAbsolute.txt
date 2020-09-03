@@ -1,0 +1,9 @@
+C:\Workspace\UtilityClient\Updater\Installer\bin\Release\Installer.exe.config
+C:\Workspace\UtilityClient\Updater\Installer\bin\Release\Installer.exe
+C:\Workspace\UtilityClient\Updater\Installer\bin\Release\Installer.pdb
+C:\Workspace\UtilityClient\Updater\Installer\obj\Release\Installer.Form1.resources
+C:\Workspace\UtilityClient\Updater\Installer\obj\Release\Installer.Properties.Resources.resources
+C:\Workspace\UtilityClient\Updater\Installer\obj\Release\Installer.csproj.GenerateResource.cache
+C:\Workspace\UtilityClient\Updater\Installer\obj\Release\Installer.csproj.CoreCompileInputs.cache
+C:\Workspace\UtilityClient\Updater\Installer\obj\Release\Installer.exe
+C:\Workspace\UtilityClient\Updater\Installer\obj\Release\Installer.pdb

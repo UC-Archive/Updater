@@ -1,0 +1,13 @@
+C:\Workspace\UtilityClient\Updater\Updater\bin\Debug\Updater.exe.config
+C:\Workspace\UtilityClient\Updater\Updater\bin\Debug\Updater.exe
+C:\Workspace\UtilityClient\Updater\Updater\bin\Debug\Updater.pdb
+C:\Workspace\UtilityClient\Updater\Updater\obj\Debug\Updater.csprojAssemblyReference.cache
+C:\Workspace\UtilityClient\Updater\Updater\obj\Debug\Updater.Form1.resources
+C:\Workspace\UtilityClient\Updater\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\Workspace\UtilityClient\Updater\Updater\obj\Debug\Updater.csproj.GenerateResource.cache
+C:\Workspace\UtilityClient\Updater\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
+C:\Workspace\UtilityClient\Updater\Updater\obj\Debug\Updater.exe
+C:\Workspace\UtilityClient\Updater\Updater\obj\Debug\Updater.pdb
+C:\Workspace\UtilityClient\Updater\Updater\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\UtilityClient\Updater\Updater\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\UtilityClient\Updater\Updater\obj\Debug\Updater.csproj.CopyComplete
